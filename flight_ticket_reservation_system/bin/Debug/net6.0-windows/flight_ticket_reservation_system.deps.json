@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "flight_ticket_reservation_system/1.0.0": {
+        "runtime": {
+          "flight_ticket_reservation_system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "flight_ticket_reservation_system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
